@@ -269,3 +269,26 @@ AHP-weighted suitability classified into five categories.
 ![Suitability](images/final_classified.png)
 
 Existing turbines align with high-suitability zones.
+
+---
+**KEY RESULTS**
+
+* High suitability zones are concentrated in **Tamil Nadu wind corridors**, particularly in the central–southern belt
+* Existing wind turbines show strong alignment with **high and very high suitability classes**
+* The model produces **spatially realistic and deployable sites** after applying all constraints
+
+---
+
+**TOOLS**
+
+* ArcGIS Pro (Spatial Analyst)
+* Python (for auxiliary processing / analysis, if applicable)
+
+---
+
+**DATA**
+
+All datasets used are from publicly available sources (Global Wind Atlas, Copernicus DEM, OpenStreetMap, WDPA, ESA WorldCover, Government of India Open Data).
+
+Data and intermediate layers are **available upon request**.
+
