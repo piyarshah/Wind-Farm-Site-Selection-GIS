@@ -256,9 +256,9 @@ Combined exclusion mask (settlements, protected areas, LULC, airports).
 
 ---
 
-**Final Suitability (Classified)**
+**Final Suitability (AHP-Classified)**
 
-![Suitability](images/final_classified.png)
+![Validation](images/final_ahp.png)
 
 AHP-weighted suitability classified into five categories.
 
@@ -266,6 +266,6 @@ AHP-weighted suitability classified into five categories.
 
 **Validation (Suitability + Turbines)**
 
-![Validation](images/final_ahp.png)
+![Suitability](images/final_classified.png)
 
 Existing turbines align with high-suitability zones.
