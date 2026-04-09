@@ -205,3 +205,67 @@ A validation layer of existing wind turbines was created using OpenStreetMap (Ov
 This indicates that the model successfully captures **real-world wind deployment patterns**, supporting its reliability for preliminary site selection.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+**MAPS**
+
+**Study Area**
+
+![Study Area](images/study_area.png)
+
+Location of the study region (Tamil Nadu + Kerala) used as the analysis boundary.
+
+---
+
+**Wind Power**
+
+![Wind Power](images/wind_power.png)
+
+Wind energy potential (V³), highlighting high-energy corridors.
+
+---
+
+**Terrain (Slope)**
+
+![Slope](images/slope.png)
+
+Terrain steepness; high slopes indicate low suitability.
+
+---
+
+**Infrastructure – Roads**
+
+![Roads](images/main_roads.png)
+
+Major road network used for accessibility modelling.
+
+---
+
+**Infrastructure – Power Lines**
+
+![Power Lines](images/power_lines.png)
+
+Transmission network used to model grid connectivity.
+
+---
+
+**Constraint Map**
+
+![Constraints](images/constraint_mask.png)
+
+Combined exclusion mask (settlements, protected areas, LULC, airports).
+
+---
+
+**Final Suitability (Classified)**
+
+![Suitability](images/final_classified.png)
+
+AHP-weighted suitability classified into five categories.
+
+---
+
+**Validation (Suitability + Turbines)**
+
+![Validation](images/final_ahp.png)
+
+Existing turbines align with high-suitability zones.
