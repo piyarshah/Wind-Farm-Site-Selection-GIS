@@ -1,2 +1,2 @@
 # Wind Farm Suitability
-GIS-based wind farm site selection using AHP, integrating terrain, infrastructure, and environmental constraints with validation against existing turbines.
+A spatial decision-support workflow for identifying optimal wind farm locations using multi-criteria analysis and real-world validation.
